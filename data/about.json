@@ -1,0 +1,34 @@
+{
+ "region": "서울 노원구 공릉동",
+ "nameEn": "Seoul Women's University",
+ "added": "2026-10-24",
+ "rank": 48,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "SEOULTECH",
+   "campus": "서울과학기술대학교",
+   "km": 1.2
+  },
+  {
+   "code": "SYU",
+   "campus": "삼육대학교",
+   "km": 1.9
+  },
+  {
+   "code": "KW",
+   "campus": "광운대학교",
+   "km": 3.1
+  },
+  {
+   "code": "INDUK",
+   "campus": "인덕대학교",
+   "km": 3.2
+  },
+  {
+   "code": "KBU",
+   "campus": "한국성서대학교",
+   "km": 3.3
+  }
+ ]
+}
